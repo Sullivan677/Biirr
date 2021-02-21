@@ -1,5 +1,5 @@
 # Biirr 
-App that present a list of beers from the BreweryDB APIs.
+App that presents a list of beers from BreweryDB's API
 
 ## Endpoint:
 https://api.brewerydb.com/v2/beers
@@ -12,7 +12,7 @@ Please get your own API key at https://www.brewerydb.com
 - JSON decoding 
 
 ## Dependencies:
-SDWebImage to read and cache images from URL 
+SDWebImage to read and cache images from URL.
 
 ## Design:
 
