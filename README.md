@@ -8,7 +8,7 @@ Please get your own API key at https://www.brewerydb.com
 
 ## Features: 
 - UITableView 
-- UIScollView 
+- UIScrollView 
 - JSON decoding 
 
 ## Dependencies:
