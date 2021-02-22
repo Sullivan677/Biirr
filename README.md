@@ -14,6 +14,6 @@ Please get your own API key at https://www.brewerydb.com
 ## Dependencies:
 SDWebImage to read and cache images from URL.
 
-## Design:
+## Screenshots:
 
 ![biirr_banner](biirr_banner.png)
